@@ -1,6 +1,6 @@
 fn main() {
     windows::build!(
-        windows::ui::{
+        Windows::UI::{
             Color, Colors,
         },
     );
