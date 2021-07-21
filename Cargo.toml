@@ -5,5 +5,5 @@ authors = ["{{authors}}"]
 edition = "2018"
 
 [dependencies]
-windows = "0.12.0"
+windows = "0.17.2"
 bindings = { path = "bindings" }
