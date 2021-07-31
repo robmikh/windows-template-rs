@@ -3,5 +3,8 @@ fn main() {
         Windows::UI::{
             Color, Colors,
         },
+        Windows::Win32::System::WinRT::{
+            RoInitialize,
+        },
     );
 }
